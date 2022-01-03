@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: mysqldb
 data:
-  connection-name: web-project-333613:us-central1:db-login-1=tcp:3306
+  connection-name: genuine-plate-329109:us-central1:logindb=tcp:3306
   project-id: web-project-333613
