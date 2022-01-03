@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: tomcat
-        image: gcr.io/genuine-plate-329109/login:1.0
+        image: sravangcpdocker/login:latest
         ports:
         - containerPort: 8080
